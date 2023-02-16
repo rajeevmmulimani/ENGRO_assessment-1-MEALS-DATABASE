@@ -1,0 +1,9 @@
+requirement document contains python version that is recommended to run this module and dependable libraries that needs to be installed to support running this script
+
+Python version:3.10.10
+
+library dependents:
+1. tkinter library for UI and console related support like message box and combo box featured in this module
+2. requests library to fetch the API response into text format using the get method
+3. json library to convert the fetched API response text into json format that co-relates the meal category to various labels in the dictionaries, lists to filter the desired label and use it accordingly as input to this module
+ 
