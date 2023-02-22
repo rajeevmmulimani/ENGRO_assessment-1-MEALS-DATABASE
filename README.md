@@ -1,4 +1,4 @@
-# UpGrow_assessment
+# EnGro_assessment
 Welcome to the ENGRO_assessment-1-MEALS-DATABASE !
 
 This module was initiated as a part of an assessment for ENGRO PoC, and serves as a tool to portrait the implementation of tkinter, requests, json libraries combined in creating dynamic UI on windows to fetch real-time data onto a dashboard as an application which is interactive and fun learning.
